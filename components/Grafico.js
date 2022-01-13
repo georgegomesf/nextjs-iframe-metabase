@@ -1,7 +1,7 @@
 const jwt = require("jsonwebtoken");
 
 const METABASE_SITE_URL = "https://bi.educacao.dev.br";
-const METABASE_SECRET_KEY = "33859008fda7c104d6c3151bde27ebd45b431b2b0786d1a0284ced58915a79ee";
+const METABASE_SECRET_KEY = "";
 
 const Grafico = () => {    
 
